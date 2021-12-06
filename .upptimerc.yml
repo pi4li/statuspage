@@ -13,6 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.bengal.productions
   # baseUrl: /your-repo-name
+  favicon: https://assets.bengal.productions/favicon.ico
   logoUrl: https://assets.bengal.productions/logos/bengalprod/bplogo.svg
   name: Bengal Productions
   introTitle: "Keep up-to-date with the current status of Bengal Productions products!"
