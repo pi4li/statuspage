@@ -7,6 +7,14 @@ sites:
     url: https://bengal.productions
   - name: Assets Server
     url: https://assets.bengal.productions
+  - name: Pate Resources
+    url: https://pateresources.co.uk
+  - name: GymDays
+    url: https://gymdays.co.uk
+  - name: Where Have I Been?
+    url: https://wherehaveibeen.co.uk
+  - name: BengalBeats
+    url: https://bengalbeats.co.uk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
