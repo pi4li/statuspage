@@ -7,6 +7,8 @@ sites:
     url: https://bengal.productions
   - name: Assets Server
     url: https://assets.bengal.productions
+  - name: NatAndruStudy
+    url: https://natandrustudy.com
   - name: Pate Resources
     url: https://pateresources.co.uk
   - name: GymDays
