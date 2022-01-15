@@ -40,19 +40,19 @@
     "url": "https://natandrustudy.com",
     "icon": "https://favicons.githubusercontent.com/natandrustudy.com",
     "slug": "nat-andru-study",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 331,
-    "timeDay": 356,
-    "timeWeek": 331,
-    "timeMonth": 331,
-    "timeYear": 331,
+    "status": "up",
+    "uptime": "98.58%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "98.58%",
+    "time": 348,
+    "timeDay": 382,
+    "timeWeek": 348,
+    "timeMonth": 348,
+    "timeYear": 348,
     "dailyMinutesDown": {
-      "2022-01-15": 0
+      "2022-01-15": 25
     }
   },
   {
