@@ -4,18 +4,20 @@
     "url": "https://bengal.productions",
     "icon": "https://favicons.githubusercontent.com/bengal.productions",
     "slug": "bengal-productions-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 531,
     "timeDay": 416,
     "timeWeek": 588,
     "timeMonth": 524,
     "timeYear": 531,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-07": 8
+    }
   },
   {
     "name": "Assets Server",
@@ -40,18 +42,19 @@
     "url": "https://natandrustudy.com",
     "icon": "https://favicons.githubusercontent.com/natandrustudy.com",
     "slug": "nat-andru-study",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 366,
     "timeDay": 246,
     "timeWeek": 419,
     "timeMonth": 366,
     "timeYear": 366,
     "dailyMinutesDown": {
+      "2022-02-07": 6,
       "2022-01-15": 25
     }
   },
@@ -60,46 +63,50 @@
     "url": "https://pateresources.co.uk",
     "icon": "https://favicons.githubusercontent.com/pateresources.co.uk",
     "slug": "pate-resources",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 364,
     "timeDay": 293,
     "timeWeek": 381,
     "timeMonth": 358,
     "timeYear": 364,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-07": 5
+    }
   },
   {
     "name": "GymDays",
     "url": "https://gymdays.co.uk",
     "icon": "https://favicons.githubusercontent.com/gymdays.co.uk",
     "slug": "gym-days",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 358,
     "timeDay": 254,
     "timeWeek": 379,
     "timeMonth": 352,
     "timeYear": 358,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-07": 3
+    }
   },
   {
     "name": "Where Have I Been?",
     "url": "https://wherehaveibeen.co.uk",
     "icon": "https://favicons.githubusercontent.com/wherehaveibeen.co.uk",
     "slug": "where-have-i-been",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 363,
@@ -107,16 +114,18 @@
     "timeWeek": 387,
     "timeMonth": 361,
     "timeYear": 363,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-07": 2
+    }
   },
   {
     "name": "BengalBeats",
     "url": "https://bengalbeats.co.uk",
     "icon": "https://favicons.githubusercontent.com/bengalbeats.co.uk",
     "slug": "bengal-beats",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,6 +134,8 @@
     "timeWeek": 387,
     "timeMonth": 346,
     "timeYear": 356,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-07": 0
+    }
   }
 ]
