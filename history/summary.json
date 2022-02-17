@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.88%",
-    "time": 537,
-    "timeDay": 676,
-    "timeWeek": 559,
-    "timeMonth": 560,
-    "timeYear": 537,
+    "time": 543,
+    "timeDay": 1030,
+    "timeWeek": 622,
+    "timeMonth": 574,
+    "timeYear": 543,
     "dailyMinutesDown": {
       "2022-02-07": 122
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 483,
-    "timeDay": 254,
-    "timeWeek": 385,
-    "timeMonth": 478,
-    "timeYear": 483,
+    "time": 481,
+    "timeDay": 343,
+    "timeWeek": 353,
+    "timeMonth": 469,
+    "timeYear": 481,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.70%",
-    "time": 411,
-    "timeDay": 332,
-    "timeWeek": 624,
-    "timeMonth": 427,
-    "timeYear": 411,
+    "time": 413,
+    "timeDay": 490,
+    "timeWeek": 628,
+    "timeMonth": 429,
+    "timeYear": 413,
     "dailyMinutesDown": {
       "2022-02-07": 120,
       "2022-01-15": 25
@@ -64,16 +64,16 @@
     "icon": "https://favicons.githubusercontent.com/pateresources.co.uk",
     "slug": "pate-resources",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "99.81%",
-    "time": 387,
-    "timeDay": 198,
-    "timeWeek": 502,
-    "timeMonth": 401,
-    "timeYear": 387,
+    "uptimeYear": "99.82%",
+    "time": 391,
+    "timeDay": 567,
+    "timeWeek": 524,
+    "timeMonth": 407,
+    "timeYear": 391,
     "dailyMinutesDown": {
       "2022-02-07": 119
     }
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.82%",
-    "time": 380,
-    "timeDay": 315,
-    "timeWeek": 479,
-    "timeMonth": 391,
-    "timeYear": 380,
+    "time": 382,
+    "timeDay": 504,
+    "timeWeek": 486,
+    "timeMonth": 394,
+    "timeYear": 382,
     "dailyMinutesDown": {
       "2022-02-07": 117
     }
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.82%",
-    "time": 401,
-    "timeDay": 342,
-    "timeWeek": 603,
-    "timeMonth": 426,
-    "timeYear": 401,
+    "time": 400,
+    "timeDay": 379,
+    "timeWeek": 599,
+    "timeMonth": 424,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2022-02-07": 116
     }
@@ -130,8 +130,8 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.82%",
     "time": 363,
-    "timeDay": 360,
-    "timeWeek": 393,
+    "timeDay": 375,
+    "timeWeek": 388,
     "timeMonth": 366,
     "timeYear": 363,
     "dailyMinutesDown": {
