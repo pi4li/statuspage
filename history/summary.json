@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.90%",
-    "time": 552,
-    "timeDay": 498,
-    "timeWeek": 634,
-    "timeMonth": 610,
-    "timeYear": 552,
+    "time": 554,
+    "timeDay": 673,
+    "timeWeek": 621,
+    "timeMonth": 608,
+    "timeYear": 554,
     "dailyMinutesDown": {
       "2022-02-07": 122
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 486,
-    "timeDay": 240,
-    "timeWeek": 464,
-    "timeMonth": 471,
-    "timeYear": 486,
+    "time": 487,
+    "timeDay": 589,
+    "timeWeek": 484,
+    "timeMonth": 469,
+    "timeYear": 487,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.76%",
     "time": 409,
-    "timeDay": 289,
-    "timeWeek": 379,
-    "timeMonth": 452,
+    "timeDay": 420,
+    "timeWeek": 378,
+    "timeMonth": 451,
     "timeYear": 409,
     "dailyMinutesDown": {
       "2022-02-23": 24,
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.86%",
-    "time": 394,
-    "timeDay": 398,
-    "timeWeek": 389,
-    "timeMonth": 433,
-    "timeYear": 394,
+    "time": 398,
+    "timeDay": 616,
+    "timeWeek": 418,
+    "timeMonth": 440,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2022-02-07": 119
     }
@@ -91,8 +91,8 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.86%",
     "time": 389,
-    "timeDay": 265,
-    "timeWeek": 407,
+    "timeDay": 403,
+    "timeWeek": 409,
     "timeMonth": 427,
     "timeYear": 389,
     "dailyMinutesDown": {
@@ -105,16 +105,16 @@
     "icon": "https://favicons.githubusercontent.com/wherehaveibeen.co.uk",
     "slug": "where-have-i-been",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.86%",
-    "time": 401,
-    "timeDay": 304,
-    "timeWeek": 369,
-    "timeMonth": 450,
-    "timeYear": 401,
+    "uptimeYear": "99.87%",
+    "time": 404,
+    "timeDay": 563,
+    "timeWeek": 396,
+    "timeMonth": 454,
+    "timeYear": 404,
     "dailyMinutesDown": {
       "2022-02-07": 116
     }
@@ -130,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.87%",
-    "time": 372,
-    "timeDay": 289,
-    "timeWeek": 384,
+    "time": 373,
+    "timeDay": 410,
+    "timeWeek": 391,
     "timeMonth": 396,
-    "timeYear": 372,
+    "timeYear": 373,
     "dailyMinutesDown": {
       "2022-02-07": 114
     }
