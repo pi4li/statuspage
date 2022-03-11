@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 557,
-    "timeDay": 565,
-    "timeWeek": 616,
-    "timeMonth": 613,
+    "timeDay": 575,
+    "timeWeek": 602,
+    "timeMonth": 607,
     "timeYear": 557,
     "dailyMinutesDown": {
       "2022-02-07": 122
@@ -25,18 +25,19 @@
     "icon": "https://favicons.githubusercontent.com/assets.bengal.productions",
     "slug": "assets-server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 808,
-    "timeWeek": 555,
-    "timeMonth": 482,
-    "timeYear": 491,
+    "uptime": "99.88%",
+    "uptimeDay": "88.59%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.88%",
+    "time": 664,
+    "timeDay": 18039,
+    "timeWeek": 3048,
+    "timeMonth": 1113,
+    "timeYear": 664,
     "dailyMinutesDown": {
-      "2022-03-10": 0
+      "2022-03-11": 62,
+      "2022-03-10": 103
     }
   },
   {
@@ -46,15 +47,15 @@
     "slug": "nat-andru-study",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "92.92%",
+    "uptimeDay": "97.21%",
     "uptimeWeek": "98.99%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.66%",
-    "time": 407,
-    "timeDay": 415,
-    "timeWeek": 399,
-    "timeMonth": 448,
-    "timeYear": 407,
+    "time": 406,
+    "timeDay": 367,
+    "timeWeek": 385,
+    "timeMonth": 444,
+    "timeYear": 406,
     "dailyMinutesDown": {
       "2022-03-10": 102,
       "2022-03-09": 0,
@@ -74,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 397,
-    "timeDay": 390,
-    "timeWeek": 416,
-    "timeMonth": 439,
-    "timeYear": 397,
+    "time": 396,
+    "timeDay": 330,
+    "timeWeek": 375,
+    "timeMonth": 436,
+    "timeYear": 396,
     "dailyMinutesDown": {
       "2022-02-07": 119
     }
@@ -94,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 390,
-    "timeDay": 412,
-    "timeWeek": 401,
-    "timeMonth": 428,
-    "timeYear": 390,
+    "time": 389,
+    "timeDay": 287,
+    "timeWeek": 384,
+    "timeMonth": 422,
+    "timeYear": 389,
     "dailyMinutesDown": {
       "2022-02-07": 117
     }
@@ -114,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 402,
-    "timeDay": 423,
-    "timeWeek": 409,
-    "timeMonth": 454,
-    "timeYear": 402,
+    "time": 400,
+    "timeDay": 242,
+    "timeWeek": 363,
+    "timeMonth": 446,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2022-02-07": 116
     }
@@ -134,11 +135,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 373,
-    "timeDay": 350,
-    "timeWeek": 376,
-    "timeMonth": 393,
-    "timeYear": 373,
+    "time": 372,
+    "timeDay": 326,
+    "timeWeek": 364,
+    "timeMonth": 390,
+    "timeYear": 372,
     "dailyMinutesDown": {
       "2022-02-07": 114
     }
