@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 558,
-    "timeDay": 502,
-    "timeWeek": 560,
-    "timeMonth": 618,
-    "timeYear": 558,
+    "time": 556,
+    "timeDay": 354,
+    "timeWeek": 484,
+    "timeMonth": 606,
+    "timeYear": 556,
     "dailyMinutesDown": {
       "2022-02-07": 122
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "91.33%",
     "uptimeMonth": "98.01%",
     "uptimeYear": "99.38%",
-    "time": 661,
-    "timeDay": 618,
-    "timeWeek": 2739,
-    "timeMonth": 1109,
-    "timeYear": 661,
+    "time": 658,
+    "timeDay": 392,
+    "timeWeek": 2715,
+    "timeMonth": 1102,
+    "timeYear": 658,
     "dailyMinutesDown": {
       "2022-03-11": 771,
       "2022-03-10": 103
@@ -51,11 +51,11 @@
     "uptimeWeek": "98.99%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.68%",
-    "time": 406,
-    "timeDay": 412,
-    "timeWeek": 384,
-    "timeMonth": 431,
-    "timeYear": 406,
+    "time": 404,
+    "timeDay": 250,
+    "timeWeek": 368,
+    "timeMonth": 426,
+    "timeYear": 404,
     "dailyMinutesDown": {
       "2022-03-10": 102,
       "2022-03-09": 0,
@@ -75,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 421,
-    "timeDay": 2277,
-    "timeWeek": 636,
-    "timeMonth": 505,
-    "timeYear": 421,
+    "time": 420,
+    "timeDay": 335,
+    "timeWeek": 629,
+    "timeMonth": 504,
+    "timeYear": 420,
     "dailyMinutesDown": {
       "2022-02-07": 119
     }
@@ -95,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 389,
-    "timeDay": 427,
-    "timeWeek": 385,
-    "timeMonth": 426,
-    "timeYear": 389,
+    "time": 388,
+    "timeDay": 330,
+    "timeWeek": 374,
+    "timeMonth": 425,
+    "timeYear": 388,
     "dailyMinutesDown": {
       "2022-02-07": 117
     }
@@ -110,16 +110,16 @@
     "icon": "https://favicons.githubusercontent.com/wherehaveibeen.co.uk",
     "slug": "where-have-i-been",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
-    "time": 400,
-    "timeDay": 400,
-    "timeWeek": 365,
-    "timeMonth": 449,
-    "timeYear": 400,
+    "uptimeYear": "99.89%",
+    "time": 399,
+    "timeDay": 304,
+    "timeWeek": 351,
+    "timeMonth": 447,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2022-02-07": 116
     }
@@ -135,11 +135,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 372,
-    "timeDay": 408,
-    "timeWeek": 362,
-    "timeMonth": 393,
-    "timeYear": 372,
+    "time": 371,
+    "timeDay": 287,
+    "timeWeek": 351,
+    "timeMonth": 389,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2022-02-07": 114
     }
