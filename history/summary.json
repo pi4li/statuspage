@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 548,
-    "timeDay": 517,
-    "timeWeek": 504,
-    "timeMonth": 534,
-    "timeYear": 548,
+    "time": 549,
+    "timeDay": 701,
+    "timeWeek": 531,
+    "timeMonth": 541,
+    "timeYear": 549,
     "dailyMinutesDown": {
       "2022-02-07": 122
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/assets.bengal.productions",
     "slug": "assets-server",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.01%",
-    "uptimeYear": "99.48%",
-    "time": 632,
-    "timeDay": 461,
-    "timeWeek": 429,
-    "timeMonth": 1044,
-    "timeYear": 632,
+    "uptimeYear": "99.49%",
+    "time": 631,
+    "timeDay": 536,
+    "timeWeek": 431,
+    "timeMonth": 1054,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2022-03-11": 771,
       "2022-03-10": 103
@@ -52,9 +52,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.76%",
     "time": 397,
-    "timeDay": 437,
-    "timeWeek": 336,
-    "timeMonth": 375,
+    "timeDay": 391,
+    "timeWeek": 345,
+    "timeMonth": 378,
     "timeYear": 397,
     "dailyMinutesDown": {
       "2022-03-10": 102,
@@ -76,8 +76,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 407,
-    "timeDay": 381,
-    "timeWeek": 331,
+    "timeDay": 407,
+    "timeWeek": 348,
     "timeMonth": 433,
     "timeYear": 407,
     "dailyMinutesDown": {
@@ -95,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 379,
-    "timeDay": 392,
-    "timeWeek": 333,
-    "timeMonth": 356,
-    "timeYear": 379,
+    "time": 380,
+    "timeDay": 427,
+    "timeWeek": 354,
+    "timeMonth": 362,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2022-02-07": 117
     }
@@ -116,9 +116,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 387,
-    "timeDay": 401,
-    "timeWeek": 315,
-    "timeMonth": 355,
+    "timeDay": 380,
+    "timeWeek": 325,
+    "timeMonth": 358,
     "timeYear": 387,
     "dailyMinutesDown": {
       "2022-02-07": 116
@@ -136,9 +136,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 368,
-    "timeDay": 370,
-    "timeWeek": 343,
-    "timeMonth": 356,
+    "timeDay": 409,
+    "timeWeek": 361,
+    "timeMonth": 360,
     "timeYear": 368,
     "dailyMinutesDown": {
       "2022-02-07": 114
