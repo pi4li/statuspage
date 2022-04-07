@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 551,
-    "timeDay": 416,
-    "timeWeek": 513,
-    "timeMonth": 529,
-    "timeYear": 551,
+    "time": 549,
+    "timeDay": 397,
+    "timeWeek": 523,
+    "timeMonth": 514,
+    "timeYear": 549,
     "dailyMinutesDown": {
       "2022-02-07": 122
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.01%",
     "uptimeYear": "99.50%",
-    "time": 628,
-    "timeDay": 474,
-    "timeWeek": 440,
-    "timeMonth": 1051,
-    "timeYear": 628,
+    "time": 627,
+    "timeDay": 462,
+    "timeWeek": 466,
+    "timeMonth": 1047,
+    "timeYear": 627,
     "dailyMinutesDown": {
       "2022-03-11": 771,
       "2022-03-10": 103
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
-    "time": 396,
-    "timeDay": 287,
-    "timeWeek": 355,
-    "timeMonth": 373,
-    "timeYear": 396,
+    "time": 395,
+    "timeDay": 268,
+    "timeWeek": 352,
+    "timeMonth": 369,
+    "timeYear": 395,
     "dailyMinutesDown": {
       "2022-03-10": 102,
       "2022-03-09": 0,
@@ -75,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 406,
-    "timeDay": 297,
-    "timeWeek": 358,
-    "timeMonth": 422,
-    "timeYear": 406,
+    "time": 405,
+    "timeDay": 320,
+    "timeWeek": 361,
+    "timeMonth": 420,
+    "timeYear": 405,
     "dailyMinutesDown": {
       "2022-02-07": 119
     }
@@ -95,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 379,
-    "timeDay": 291,
-    "timeWeek": 352,
-    "timeMonth": 357,
-    "timeYear": 379,
+    "time": 378,
+    "timeDay": 265,
+    "timeWeek": 349,
+    "timeMonth": 353,
+    "timeYear": 378,
     "dailyMinutesDown": {
       "2022-02-07": 117
     }
@@ -115,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 386,
-    "timeDay": 238,
-    "timeWeek": 335,
-    "timeMonth": 348,
-    "timeYear": 386,
+    "time": 385,
+    "timeDay": 310,
+    "timeWeek": 333,
+    "timeMonth": 345,
+    "timeYear": 385,
     "dailyMinutesDown": {
       "2022-02-07": 116
     }
@@ -130,16 +130,16 @@
     "icon": "https://favicons.githubusercontent.com/bengalbeats.co.uk",
     "slug": "bengal-beats",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 368,
-    "timeDay": 235,
-    "timeWeek": 353,
-    "timeMonth": 356,
-    "timeYear": 368,
+    "uptimeYear": "99.92%",
+    "time": 367,
+    "timeDay": 281,
+    "timeWeek": 352,
+    "timeMonth": 354,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2022-02-07": 114
     }
