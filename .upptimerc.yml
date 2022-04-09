@@ -3,10 +3,10 @@ owner: bengalproductions
 repo: statuspage # The name of this repository
 
 sites:
-  - name: Bengal Productions Website
-    url: https://bengal.productions
+  - name: PI4LI Website
+    url: https://pi4li.com
   - name: Assets Server
-    url: https://assets.bengal.productions
+    url: https://assets.pi4li.com
   - name: NatAndruStudy
     url: https://natandrustudy.com
   - name: Pate Resources
@@ -21,18 +21,18 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.bengal.productions
+  cname: status.pi4li.com
   # baseUrl: /your-repo-name
-  favicon: https://assets.bengal.productions/favicon.ico
-  logoUrl: https://assets.bengal.productions/logos/bengalprod/bplogo.svg
-  name: Bengal Productions
-  introTitle: "Keep up-to-date with the current status of Bengal Productions products!"
+  favicon: https://assets.pi4li.com/favicon.ico
+  logoUrl: https://assets.pi4li.com/logos/bengalprod/bplogo.svg
+  name: PI4LI
+  introTitle: "Keep up-to-date with the current status of PI4LI products!"
   introMessage: This is status page is automatically updated every time we have an issue and is updated by us during every incident.
   navbar:
     - title: Status
       href: /
-    - title: Back to Bengal Productions
-      href: https://bengal.productions
+    - title: Back to PI4LI
+      href: https://pi4li.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
