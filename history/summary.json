@@ -1,28 +1,26 @@
 [
   {
-    "name": "Bengal Productions Website",
-    "url": "https://bengal.productions",
-    "icon": "https://favicons.githubusercontent.com/bengal.productions",
-    "slug": "bengal-productions-website",
+    "name": "PI4LI Website",
+    "url": "https://pi4li.com",
+    "icon": "https://favicons.githubusercontent.com/pi4li.com",
+    "slug": "pi-4-li-website",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
-    "time": 546,
-    "timeDay": 312,
-    "timeWeek": 506,
-    "timeMonth": 512,
-    "timeYear": 546,
-    "dailyMinutesDown": {
-      "2022-02-07": 122
-    }
+    "uptimeYear": "100.00%",
+    "time": 365,
+    "timeDay": 365,
+    "timeWeek": 365,
+    "timeMonth": 365,
+    "timeYear": 365,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Assets Server",
-    "url": "https://assets.bengal.productions",
-    "icon": "https://favicons.githubusercontent.com/assets.bengal.productions",
+    "url": "https://assets.pi4li.com",
+    "icon": "https://favicons.githubusercontent.com/assets.pi4li.com",
     "slug": "assets-server",
     "status": "up",
     "uptime": "99.51%",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.01%",
     "uptimeYear": "99.51%",
-    "time": 623,
-    "timeDay": 313,
-    "timeWeek": 472,
-    "timeMonth": 1044,
-    "timeYear": 623,
+    "time": 621,
+    "timeDay": 326,
+    "timeWeek": 455,
+    "timeMonth": 1023,
+    "timeYear": 621,
     "dailyMinutesDown": {
       "2022-03-11": 771,
       "2022-03-10": 103
@@ -52,7 +50,7 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.78%",
     "time": 394,
-    "timeDay": 388,
+    "timeDay": 371,
     "timeWeek": 350,
     "timeMonth": 369,
     "timeYear": 394,
@@ -76,9 +74,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 404,
-    "timeDay": 383,
-    "timeWeek": 363,
-    "timeMonth": 421,
+    "timeDay": 377,
+    "timeWeek": 364,
+    "timeMonth": 419,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2022-02-07": 119
@@ -95,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 377,
-    "timeDay": 356,
-    "timeWeek": 350,
-    "timeMonth": 350,
-    "timeYear": 377,
+    "time": 378,
+    "timeDay": 402,
+    "timeWeek": 363,
+    "timeMonth": 353,
+    "timeYear": 378,
     "dailyMinutesDown": {
       "2022-02-07": 117
     }
@@ -116,8 +114,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 385,
-    "timeDay": 451,
-    "timeWeek": 359,
+    "timeDay": 406,
+    "timeWeek": 360,
     "timeMonth": 348,
     "timeYear": 385,
     "dailyMinutesDown": {
@@ -135,11 +133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 366,
-    "timeDay": 353,
-    "timeWeek": 338,
-    "timeMonth": 350,
-    "timeYear": 366,
+    "time": 367,
+    "timeDay": 400,
+    "timeWeek": 352,
+    "timeMonth": 353,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2022-02-07": 114
     }
