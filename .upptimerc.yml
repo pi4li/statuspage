@@ -27,7 +27,7 @@ status-website:
   logoUrl: https://assets.pi4li.com/logos/pi4li/pi4lilogo.svg
   name: PI4LI
   introTitle: "Keep up-to-date with the current status of PI4LI projects!"
-  introMessage: This is status page is automatically updated every time we have an issue and is updated by us during every incident.
+  introMessage: This status page is automatically updated every time we have an issue and is updated by us during every incident.
   navbar:
     - title: Status
       href: /
