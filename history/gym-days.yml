@@ -1,7 +1,7 @@
 url: https://gymdays.co.uk
-status: up
-code: 200
-responseTime: 327
-lastUpdated: 2023-09-01T23:13:57.485Z
+status: down
+code: 502
+responseTime: 307
+lastUpdated: 2023-09-02T22:32:44.320Z
 startTime: 2022-01-02T22:59:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
