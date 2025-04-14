@@ -27,9 +27,9 @@
     "url": "https://assets.pi4li.com",
     "icon": "https://icons.duckduckgo.com/ip3/assets.pi4li.com.ico",
     "slug": "assets-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -38,7 +38,9 @@
     "timeWeek": 364,
     "timeMonth": 374,
     "timeYear": 333,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-14": 0
+    }
   },
   {
     "name": "NatAndruStudy",
