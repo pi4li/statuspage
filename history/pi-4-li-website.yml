@@ -1,7 +1,7 @@
 url: https://pi4li.com
-status: down
-code: 500
-responseTime: 160
-lastUpdated: 2025-04-28T23:51:51.282Z
+status: up
+code: 200
+responseTime: 424
+lastUpdated: 2025-04-29T00:52:44.937Z
 startTime: 2022-04-09T08:31:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
