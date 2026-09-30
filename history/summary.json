@@ -4,17 +4,17 @@
     "url": "https://pi4li.com",
     "icon": "https://icons.duckduckgo.com/ip3/pi4li.com.ico",
     "slug": "pi-4-li-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.00%",
-    "time": 563,
-    "timeDay": 410,
-    "timeWeek": 362,
-    "timeMonth": 386,
-    "timeYear": 536,
+    "time": 564,
+    "timeDay": 556,
+    "timeWeek": 404,
+    "timeMonth": 396,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2025-10-02": 1116,
       "2025-11-18": 133,
@@ -25,7 +25,8 @@
       "2026-05-02": 290,
       "2026-08-03": 235,
       "2026-08-02": 1440,
-      "2026-08-01": 1005
+      "2026-08-01": 1005,
+      "2026-09-30": 1
     }
   },
   {
@@ -34,11 +35,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.pi4li.com.ico",
     "slug": "assets-server",
     "status": "up",
-    "uptime": "86.66%",
+    "uptime": "86.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "36.28%",
+    "uptimeYear": "36.23%",
     "time": 448,
     "timeDay": 368,
     "timeWeek": 356,
@@ -47,7 +48,7 @@
     "dailyMinutesDown": {
       "2025-11-18": 177,
       "2025-12-19": 41,
-      "2026-09-30": 243,
+      "2026-09-30": 501,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
@@ -288,17 +289,17 @@
     "url": "https://natandrustudy.com",
     "icon": "https://icons.duckduckgo.com/ip3/natandrustudy.com.ico",
     "slug": "nat-andru-study",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.99%",
     "time": 572,
-    "timeDay": 399,
-    "timeWeek": 373,
-    "timeMonth": 397,
-    "timeYear": 612,
+    "timeDay": 329,
+    "timeWeek": 359,
+    "timeMonth": 392,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2025-10-02": 1116,
       "2025-11-18": 158,
@@ -309,7 +310,8 @@
       "2026-05-02": 289,
       "2026-08-03": 235,
       "2026-08-02": 1440,
-      "2026-08-01": 1004
+      "2026-08-01": 1004,
+      "2026-09-30": 1
     }
   },
   {
@@ -317,17 +319,17 @@
     "url": "https://gymdays.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/gymdays.co.uk.ico",
     "slug": "gym-days",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.01%",
     "time": 545,
-    "timeDay": 363,
-    "timeWeek": 360,
-    "timeMonth": 437,
-    "timeYear": 583,
+    "timeDay": 312,
+    "timeWeek": 348,
+    "timeMonth": 431,
+    "timeYear": 582,
     "dailyMinutesDown": {
       "2025-10-02": 1116,
       "2025-11-18": 133,
@@ -337,7 +339,8 @@
       "2026-05-02": 288,
       "2026-08-03": 235,
       "2026-08-02": 1440,
-      "2026-08-01": 1004
+      "2026-08-01": 1004,
+      "2026-09-30": 1
     }
   },
   {
@@ -345,17 +348,17 @@
     "url": "https://wherehaveibeen.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/wherehaveibeen.co.uk.ico",
     "slug": "where-have-i-been",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.01%",
     "time": 504,
-    "timeDay": 406,
-    "timeWeek": 374,
-    "timeMonth": 394,
-    "timeYear": 525,
+    "timeDay": 340,
+    "timeWeek": 362,
+    "timeMonth": 390,
+    "timeYear": 524,
     "dailyMinutesDown": {
       "2025-10-02": 1116,
       "2025-11-18": 148,
@@ -365,7 +368,8 @@
       "2026-05-02": 287,
       "2026-08-03": 235,
       "2026-08-02": 1440,
-      "2026-08-01": 1004
+      "2026-08-01": 1004,
+      "2026-09-30": 0
     }
   }
 ]
